@@ -1,0 +1,5 @@
+" Clojure 
+Bundle 'tpope/vim-foreplay'
+Bundle 'guns/vim-clojure-static'
+Bundle 'vim-scripts/paredit.vim'
+
