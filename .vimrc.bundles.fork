@@ -1,5 +1,6 @@
 " Clojure 
-Bundle 'tpope/vim-foreplay'
+Bundle 'tpope/vim-fireplace'
+Bundle 'tpope/vim-classpath'
 Bundle 'guns/vim-clojure-static'
 Bundle 'vim-scripts/paredit.vim'
 Bundle 'kien/rainbow_parentheses.vim'
